@@ -1,5 +1,5 @@
 # 🍇 Web Site Desfruto - backend
-O AçaíBackEnd é o servidor e sistema de API responsável por gerenciar os dados do sistema de pedidos de açaí. Ele lida com as operações no banco de dados, autenticação e funcionalidades relacionadas ao gerenciamento de pedidos.
+O Desfruto é o servidor e sistema de API responsável por gerenciar os dados do sistema de pedidos de açaí. Ele lida com as operações no banco de dados, autenticação e funcionalidades relacionadas ao gerenciamento de pedidos.
 
 🍓FrontEnd: https://github.com/stellahada/acaiFrontEnd
 ## 📦 Tecnologias Utilizadas
